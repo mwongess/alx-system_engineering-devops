@@ -1,1 +1,1 @@
-This project covers basic esercises about shell permission commands
+This project covers basic exercises about shell permission command
