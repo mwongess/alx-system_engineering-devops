@@ -1,0 +1,2 @@
+#!/bin/bin
+find . -type f -name "*.js" -delete
