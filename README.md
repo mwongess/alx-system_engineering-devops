@@ -1,26 +1,20 @@
-<a></a><h1>Overview</h1>
-<h3>1. 0x00-shell_basics</h3><br>
-<h3>2. 0x01-shell_permissions</h3><br>
-<h3>3. 0x02-shell_redirections</h3><br>
-<h3>4. 0x03-shell_variables_expansions</h3>
+# System Engineering and DevOps - Bash, Scripting, Web Stack/Web Stack Debugging, Networking & Security, CI/CD
+
+This repository contains programs written for the system engineering and DevOps
+track at ALX School. In these projects, I worked with Bash and practiced
+writing Bash scripts to automate tasks.
+The specific list of projects
+contained follows:
+
+* [0x00. Shell, basics](./0x00-shell_basics)
+* [0x01. Shell, permissions](./0x01-shell_permissions)
+* [0x02. Shell, I/O Redirections and filters](./0x02-shell_redirections)
+* [0x03. Shell, init files, variables and expansions](./0x03-shell_variables_expansions)
+* [0x04. Loops, conditions and parsing](./0x04-loops_conditions_and_parsing)
+* [Command Line for the Win](./command_line_for_the_win)
+
+## Author :black_nib:
+
+* Amos Mwongela Gabriel <[cm-amos](https://github.com/cm-amos)>
 
 
-
-    &nbsp;&nbsp;&nbsp;0-alias<br>
-    &nbsp;&nbsp;&nbsp;1-hello_you<br>
-    &nbsp;&nbsp;&nbsp;2-path<br>
-    &nbsp;&nbsp;&nbsp;3-paths<br>
-    &nbsp;&nbsp;&nbsp;4-global_variables<br>
-    &nbsp;&nbsp;&nbsp;5-local_variables<br>
-    &nbsp;&nbsp;&nbsp;6-create_local_variables<br>
-    &nbsp;&nbsp;&nbsp;7-create_global_variales<br>
-    &nbsp;&nbsp;&nbsp;8-true_knowledge<br>
-    &nbsp;&nbsp;&nbsp;9-divide_and_rule<br>
-    &nbsp;&nbsp;&nbsp;10-love_exponent_breath<br>
-    &nbsp;&nbsp;&nbsp;11-binary_to_decimal<br>
-    &nbsp;&nbsp;&nbsp;12-combinations<br>
-    &nbsp;&nbsp;&nbsp;100-decimal_to_hexadecimal<br>
-    &nbsp;&nbsp;&nbsp;101-rot13<br>
-    &nbsp;&nbsp;&nbsp;102-odd<br>
-    &nbsp;&nbsp;&nbsp;103-water_and_stir<br>
-  
