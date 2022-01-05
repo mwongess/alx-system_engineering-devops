@@ -3,6 +3,9 @@
 <h3>2. 0x01-shell_permissions</h3><br>
 <h3>3. 0x02-shell_redirections</h3><br>
 <h3>4. 0x03-shell_variables_expansions</h3>
+
+
+
     &nbsp;&nbsp;&nbsp;0-alias<br>
     &nbsp;&nbsp;&nbsp;1-hello_you<br>
     &nbsp;&nbsp;&nbsp;2-path<br>
