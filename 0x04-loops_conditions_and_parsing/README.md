@@ -13,7 +13,7 @@ tasks `102` and `103`.
   * [0-RSA_public_key.pub](./0-RSA_public_key.pub): A public SSH key uploaded for the
   purposes of Holberton School.
 
-* **1. For Holberton School loop**
+* **1. For loop**
   * [1-for_holberton_school](./1-for_holberton_school): Bash script that displays
   `Holberton School` 10 times using a `for` loop.
 
