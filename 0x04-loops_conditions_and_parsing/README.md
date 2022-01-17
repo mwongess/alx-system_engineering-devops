@@ -17,7 +17,7 @@ tasks `102` and `103`.
   * [1-for_holberton_school](./1-for_holberton_school): Bash script that displays
   `Holberton School` 10 times using a `for` loop.
 
-* **2. While Holberton School loop**
+* **2. While loop**
   * [2-while_holberton_school](./2-while_holberton_school): Bash script that
   displays `Holberton School` 10 times using a `while` loop.
 
