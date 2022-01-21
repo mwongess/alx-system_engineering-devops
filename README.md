@@ -13,6 +13,7 @@ contained follows:
 * [Command Line for the Win](./command_line_for_the_win)
 * [0x04-loops_conditions_and_parsing] (./0x04-loops_conditions_and_parsing)
 * [0x06-regular_expressions] (./0x06-regular_expressions)
+* [0x08-networking_basics_2] (./0x08-networking_basics_2)
 ## Author :black_nib:
 
 * Amos Mwongela Gabriel <[cm-amos](https://github.com/cm-amos)>
