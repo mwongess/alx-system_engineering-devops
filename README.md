@@ -12,6 +12,7 @@ contained follows:
 * [0x03. Shell, init files, variables and expansions](./0x03-shell_variables_expansions)
 * [Command Line for the Win](./command_line_for_the_win)
 * [0x04-loops_conditions_and_parsing] (./0x04-loops_conditions_and_parsing)
+* [0x06-regular_expressions] (./0x06-regular_expressions)
 ## Author :black_nib:
 
 * Amos Mwongela Gabriel <[cm-amos](https://github.com/cm-amos)>
