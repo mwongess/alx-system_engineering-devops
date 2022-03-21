@@ -14,7 +14,7 @@ contained follows:
 * [0x06-regular_expressions] (./0x06-regular_expressions)
 * [0x08-networking_basics_2] (./0x08-networking_basics_2)
 * [0x09-web_infrastructure_design] (./0x09-web_infrastructure_design)
-
+* [0x0A-configuration_management] (./0x0A-configuration_management)
 
 * [Command_Line_for_the_WIn] (./command_line_for_the_win
 
