@@ -18,6 +18,8 @@ contained follows:
 * [0x0B-ssh] (./0x0B-ssh)
 * [0x0C-web_server] (./0x0C-web_server)
 * [0x0F-load_balancer] (./0x0F-load_balancer)
+* [attack_is_the_best_defense] (./attack_is_the_best_defense)
+
 * [Command_Line_for_the_WIn] (./command_line_for_the_win
 
 ## Author :black_nib:
