@@ -17,4 +17,5 @@ Concepts learnt:
 - Pythonic Constant name style
 - Significance of CapWords or CamelCase in Python
 
+
 This directory contains python script I wrote with this [REST API](https://jsonplaceholder.typicode.com/)
