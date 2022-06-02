@@ -9,9 +9,6 @@ Upstart script to keep the application running on server reboots.
 
 * **0. Set up development with Python**
   * In this task, I configured the file `web_flask/0-hello_route.py` from my
-  [AirBnB_clone_v2](https://github.com/bdbaraban/AirBnB_clone_v2) to serve content
-  on the route `/airbnb-onepage/`, running on port `5000`.
-
 * **1. Set up production with Gunicorn**
   * This task involved setting up a production environment, installing and configuring
   Gunicorn to serve the same file from task 0.
