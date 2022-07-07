@@ -20,7 +20,7 @@ contained follows:
 * [0x0F-load_balancer] (./0x0F-load_balancer)
 * [attack_is_the_best_defense] (./attack_is_the_best_defense)
 * [0x10-https_ssl] (./0x10-https_ssl)
-* [Command_Line_for_the_WIn] (./command_line_for_the_win
+* [Command_Line_for_the_WIn] (./command_line_for_the_win)
 
 
 ## Author :black_nib:
