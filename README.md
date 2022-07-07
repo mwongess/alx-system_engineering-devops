@@ -1,6 +1,5 @@
 # System Engineering and DevOps - Bash, Scripting, Web Stack/Web Stack Debugging, Networking & Security, CI/CD
 ![Repo size](https://img.shields.io/github/repo-size/4ouR04/alx-system_engineering-devops)
-
 ![Latest commit](https://img.shields.io/github/last-commit/4ouR04/alx-system_engineering-devops/master?style=round-square)
 
 This repository contains programs written for the system engineering and DevOps
