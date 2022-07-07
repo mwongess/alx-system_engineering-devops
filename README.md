@@ -1,4 +1,7 @@
 # System Engineering and DevOps - Bash, Scripting, Web Stack/Web Stack Debugging, Networking & Security, CI/CD
+![Repo size](https://img.shields.io/github/repo-size/4ouR04/alx-system_engineering-devops)
+![Pep8 style](https://img.shields.io/badge/PEP8-style%20guide-purple?style=round-square)
+![Latest commit](https://img.shields.io/github/last-commit/4ouR04/alx-system_engineering-devops/main?style=round-square)
 
 This repository contains programs written for the system engineering and DevOps
 track at ALX School. In these projects, I worked with Bash and practiced
@@ -12,7 +15,7 @@ contained follows:
 * [0x03. Shell, init files, variables and expansions](./0x03-shell_variable_expansions)
 * [0x04-loops,conditions, and,parsing](./0x04-loops_conditions_and_parsing)
 * [0x06-regular, expressions](./0x06-regular_expressions)
-* [0x08-networking, basics, 2] (./0x08-networking_basics_2)
+* [0x08-networking, basics, 2](./0x08-networking_basics_2)
 * [0x09-web, infrastructure, design](./0x09-web_infrastructure_design)
 * [0x0A-configuration, management](./00x0A-configuration_management)
 * [0x0B-ssh](./0x0B-ssh)
